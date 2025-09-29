@@ -1,22 +1,24 @@
 {
-    "name": "myth/auth",
-    "description": "Flexible authentication/authorization system for CodeIgniter 4.",
+    "name": "pream-webapps/2c-auth",
+    "description": "Custom fork of Myth\\Auth: Flexible authentication/authorization system for CodeIgniter 4.",
     "license": "MIT",
     "type": "library",
     "keywords": [
         "codeigniter",
         "authentication",
-        "authorization"
+        "authorization",
+        "2coms",
+        "2c-auth"
     ],
     "authors": [
         {
-            "name": "Lonnie Ezell",
-            "email": "lonnieje@gmail.com",
-            "homepage": "http://newmythmedia.com",
-            "role": "Developer"
+            "name": "Twocoms Consulting",
+            "email": "it@2coms.com",
+            "homepage": "https://2coms.com",
+            "role": "Maintainer"
         }
     ],
-    "homepage": "https://github.com/lonnieezell/myth-auth",
+    "homepage": "https://github.com/Pream-webapps/2C-auth",
     "require": {
         "php": "^7.4 || ^8.0"
     },
